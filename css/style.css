@@ -47,3 +47,15 @@ a:hover {
     font-style: none;
     color: #ff3530;
 }
+
+.author .time {
+font-size: .85rem;
+}
+
+.author {
+    margin-bottom: 0
+}
+
+figure {
+    margin: 1.25em 0
+}
