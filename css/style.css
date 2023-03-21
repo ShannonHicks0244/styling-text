@@ -63,8 +63,12 @@ a:hover {
     color: #ff3530;
 }
 
-.author .time {
-font-size: .85rem;
+.author { 
+    font-size: .85rem;
+}
+
+time {
+    font-size: .85rem;
 }
 
 .author {
